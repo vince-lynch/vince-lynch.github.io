@@ -3923,3 +3923,8 @@ h2 {
 .content p {
     margin: -77px 0 2rem 0;
 }
+
+#wrapper section > .content {
+    padding: 0 5rem;
+    color: black;
+}
