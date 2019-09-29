@@ -162,7 +162,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		color: #000000;
+		color: #fff5af;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
@@ -3880,3 +3880,46 @@ input, select, textarea {
 		}
 
 	}
+
+
+#wrapper:before {
+    background-attachment: fixed;
+    background-color: #170c50;
+    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' v…z M784.62,1139.38l41.54,20.13l56.45-22.67 L784.62,1139.38z'/%3E %3C/svg%3E);
+    background-position: -50% 10%;
+    background-repeat: repeat-y;
+    background-size: 75% auto;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    color: white;
+    top: 0;
+    width: 50vw;
+    z-index: -1;
+    font-family: 'Hind Madurai', sans-serif !important;
+}
+
+#wrapper h1{
+	width: 20rem;
+    color: #0000000d !important;
+    text-shadow: aliceblue -234px 13px;
+}
+
+
+h2 {
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin: 0 0 2rem 0;
+    /* border: 76px solid #150b4c; */
+    transform: rotate(345deg);
+    font-family: 'Cutive Mono', monospace;
+    color: #23406a;
+    text-shadow: yellow;
+    text-shadow: 0px;
+}
+
+.content p {
+    margin: -77px 0 2rem 0;
+}
