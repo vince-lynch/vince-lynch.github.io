@@ -23,3 +23,5 @@ Extraordinarily hardworking, self starter. Began as a programmer then moved into
 - Strategy, business economics, and marketing, (summer school) - London school of economics
 - BA (Hons) Psychology (psychotherapy specialism) - University of Leeds.
 - A levels, Computing, philosophy, psychology, business - Loughborough college
+
+For opportunities/discussion regarding further projects please contact autovincelynch@gmail.com or visit the [website](https://www.vincelynch.com)
